@@ -1,2 +1,4 @@
 # C
-Meus códigos em C
+
+Aprendendo C do 0
+
